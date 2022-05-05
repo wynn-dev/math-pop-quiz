@@ -2,6 +2,8 @@
 
 ## Setup
 
+Nodejs v12
+
 ```bash
 # Install dependencies
 npm i
